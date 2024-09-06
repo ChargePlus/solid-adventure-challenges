@@ -48,13 +48,16 @@ Notes/Hints:
 
 def getParkingTariff():
   '''
-  this function simulates querying a tariff dataset required for fee calculation and 
-  returns a JSON dictionary or a list of objects containing the tariff data.
+  This function mimics the retrieval of tariff information necessary for calculating fees. 
+  It returns the tariff data as either a JSON dictionary or a list of objects.
   '''
   return {}
 
 
 def calculateParkingFees(datetime_enter, datetime_exit):
+
+  getParkingTariff()
+  
   return {
     "parking_duration" : "0 hours 0 minutes",
     "parking_fees" : 0.00
