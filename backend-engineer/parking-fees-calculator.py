@@ -5,10 +5,10 @@ Develop a function that computes and returns the parking charges for a given veh
 +--------------------------------------------------------------------------------------------------------------------+
 | Day of week            | Tariff                                                     | Maximum Daily Charge         |
 +------------------------+------------------------------------------------------------+------------------------------+
-| Weekdays               | First 3 Hours: MYR 3.00                           | MYR 20.00                    |
+| Weekdays               | First 3 Hours: MYR 3.00                                    | MYR 20.00                    |
 |                        | Each Additional Hour: MYR 1.50 per hour                    |                              |
 +------------------------+------------------------------------------------------------+------------------------------+
-| Weekends               | First 3 Hours: MYR 5.00                         | MYR 30.00                    |
+| Weekends               | First 3 Hours: MYR 5.00                                    | MYR 30.00                    |
 |                        | Each Additional Hour: MYR 2.00 per hour                    |                              |
 +--------------------------------------------------------------------------------------------------------------------+
 | Additional Conditions                                                                                              |
