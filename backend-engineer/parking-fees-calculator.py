@@ -34,7 +34,7 @@ Scenarios 2 : Vehicle exit after 15 minutes and within grace period minutes on w
 | Exit  : 2023-01-25 12:19           |
 |                                    |
 | Total Duration : 4 hours 3 minutes |
-| Amount to paid : MYR 4.50          |
+| Amount to paid : MYR 3.00          |
 +------------------------------------+
 
 
